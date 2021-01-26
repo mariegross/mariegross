@@ -29,7 +29,9 @@
 
 ## Capstone Project "Compass"
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gesellenstueck&repo=Compass&theme=tokyonight)](https://github.com/mariegross/github-readme-stats)
+Take a look a at our [code](https://github.com/Gesellenstueck/Compass) and feel free to leave some feedback 🌷
+
+<img alt="GIF of the App Compass" src="https://media.giphy.com/media/wH2ilDIH4i7QgNbBar/giphy.gif" />
 
 ## GitHub Stats
 
