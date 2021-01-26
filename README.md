@@ -27,7 +27,11 @@
 ![git](https://user-images.githubusercontent.com/71376763/105857298-72539b80-5fea-11eb-9871-fcc4a09b5805.png)
 ![heroku](https://user-images.githubusercontent.com/71376763/105857300-72ec3200-5fea-11eb-8b0d-0312721d7df0.png)
 
-<br />
+## Capstone Project "Compass"
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gesellenstueck&repo=Compass&theme=tokyonight)](https://github.com/mariegross/github-readme-stats)
+
+## GitHub Stats
 
 [![Maries's github stats](https://github-readme-stats.vercel.app/api?username=mariegross&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mariegross/github-readme-stats)
 
