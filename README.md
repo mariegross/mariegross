@@ -7,12 +7,6 @@
 - 👯 I’m looking to collaborate on cool projects
 - 😄 Pronouns: she/her
 
-## Let's connect 🔗
-
-[![linkedin](https://user-images.githubusercontent.com/71376763/105857317-75e72280-5fea-11eb-98e0-32aa85bb91b5.png)][linkedin]
-[![instagram(1)](https://user-images.githubusercontent.com/71376763/105857316-75e72280-5fea-11eb-9635-8e5087dc07c6.png)][instagram]
-[![facebook(1)](https://user-images.githubusercontent.com/71376763/105857315-754e8c00-5fea-11eb-8ce3-7a5137e5d5ab.png)][facebook]
-
 ## Languages and Tools 🔨
 
 ![html-5(1)](https://user-images.githubusercontent.com/71376763/105857299-72ec3200-5fea-11eb-9808-8969499178e8.png)
@@ -27,9 +21,9 @@
 ![git](https://user-images.githubusercontent.com/71376763/105857298-72539b80-5fea-11eb-9871-fcc4a09b5805.png)
 ![heroku](https://user-images.githubusercontent.com/71376763/105857300-72ec3200-5fea-11eb-8b0d-0312721d7df0.png)
 
-## Capstone Project "Compass"
+## Capstone Project "Compass" 🌷
 
-Take a look a at our [code](https://github.com/Gesellenstueck/Compass) and feel free to leave some feedback 🌷
+Take a look a at our [code](https://github.com/Gesellenstueck/Compass) and feel free to leave some feedback!
 
 <img alt="GIF of the App Compass" src="https://media.giphy.com/media/wH2ilDIH4i7QgNbBar/giphy.gif" />
 
@@ -37,6 +31,11 @@ Take a look a at our [code](https://github.com/Gesellenstueck/Compass) and feel 
 
 [![Maries's github stats](https://github-readme-stats.vercel.app/api?username=mariegross&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mariegross/github-readme-stats)
 
+## Let's connect 🔗
+
+[![linkedin](https://user-images.githubusercontent.com/71376763/105857317-75e72280-5fea-11eb-98e0-32aa85bb91b5.png)][linkedin]
+[![instagram(1)](https://user-images.githubusercontent.com/71376763/105857316-75e72280-5fea-11eb-9635-8e5087dc07c6.png)][instagram]
+[![facebook(1)](https://user-images.githubusercontent.com/71376763/105857315-754e8c00-5fea-11eb-8ce3-7a5137e5d5ab.png)][facebook]
 
 [linkedin]: https://www.linkedin.com/in/marie-gross/
 [instagram]: https://www.instagram.com/grossartig3m/
